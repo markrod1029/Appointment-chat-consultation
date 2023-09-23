@@ -1,0 +1,852 @@
+[22-Feb-2023 04:52:12 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[22-Feb-2023 04:52:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[22-Feb-2023 04:52:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[22-Feb-2023 04:52:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 94
+[22-Feb-2023 04:52:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 98
+[22-Feb-2023 04:52:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[22-Feb-2023 04:52:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[22-Feb-2023 04:52:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 117
+[22-Feb-2023 04:52:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 118
+[22-Feb-2023 04:52:12 UTC] PHP Warning:  Undefined array key "total" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 190
+[22-Feb-2023 04:52:12 UTC] PHP Warning:  Undefined variable $appointment_number in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 225
+[22-Feb-2023 04:52:12 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "query" on null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php:239
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 239
+[22-Feb-2023 04:52:54 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[22-Feb-2023 04:52:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[22-Feb-2023 04:52:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[22-Feb-2023 04:52:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 94
+[22-Feb-2023 04:52:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 98
+[22-Feb-2023 04:52:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[22-Feb-2023 04:52:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[22-Feb-2023 04:52:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 117
+[22-Feb-2023 04:52:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 118
+[25-Feb-2023 14:45:00 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[25-Feb-2023 14:45:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[25-Feb-2023 14:45:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[25-Feb-2023 14:45:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 94
+[25-Feb-2023 14:45:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 98
+[25-Feb-2023 14:45:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[25-Feb-2023 14:45:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[25-Feb-2023 14:45:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 117
+[25-Feb-2023 14:45:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 118
+[25-Feb-2023 14:45:00 UTC] PHP Warning:  Undefined array key "total" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 190
+[25-Feb-2023 14:45:00 UTC] PHP Warning:  Undefined variable $appointment_number in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 225
+[25-Feb-2023 14:45:00 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "query" on null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php:239
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 239
+[25-Feb-2023 14:46:17 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[25-Feb-2023 14:46:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[25-Feb-2023 14:46:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[25-Feb-2023 14:46:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 94
+[25-Feb-2023 14:46:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 98
+[25-Feb-2023 14:46:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[25-Feb-2023 14:46:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[25-Feb-2023 14:46:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 117
+[25-Feb-2023 14:46:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 118
+[25-Feb-2023 14:48:15 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[25-Feb-2023 14:48:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[25-Feb-2023 14:48:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[25-Feb-2023 14:48:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 94
+[25-Feb-2023 14:48:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 98
+[25-Feb-2023 14:48:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[25-Feb-2023 14:48:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[25-Feb-2023 14:48:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 117
+[25-Feb-2023 14:48:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 118
+[25-Feb-2023 14:48:15 UTC] PHP Warning:  Undefined array key "total" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 190
+[25-Feb-2023 14:48:15 UTC] PHP Warning:  Undefined variable $appointment_number in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 225
+[03-Mar-2023 06:58:11 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[03-Mar-2023 06:58:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[03-Mar-2023 06:58:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[03-Mar-2023 06:58:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 94
+[03-Mar-2023 06:58:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 98
+[03-Mar-2023 06:58:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[03-Mar-2023 06:58:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[03-Mar-2023 06:58:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 117
+[03-Mar-2023 06:58:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 118
+[03-Mar-2023 06:58:11 UTC] PHP Warning:  Undefined array key "total" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 190
+[04-Mar-2023 13:33:26 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[04-Mar-2023 13:33:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[04-Mar-2023 13:33:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[04-Mar-2023 13:33:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 94
+[04-Mar-2023 13:33:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 98
+[04-Mar-2023 13:33:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[04-Mar-2023 13:33:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[04-Mar-2023 13:33:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 117
+[04-Mar-2023 13:33:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 118
+[04-Mar-2023 13:33:26 UTC] PHP Warning:  Undefined array key "total" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 190
+[07-Mar-2023 08:48:54 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[07-Mar-2023 08:48:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[07-Mar-2023 08:48:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[07-Mar-2023 08:48:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 94
+[07-Mar-2023 08:48:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 98
+[07-Mar-2023 08:48:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[07-Mar-2023 08:48:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[07-Mar-2023 08:48:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 117
+[07-Mar-2023 08:48:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 118
+[07-Mar-2023 08:48:54 UTC] PHP Warning:  Undefined array key "total" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 190
+[13-Mar-2023 03:44:45 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[13-Mar-2023 03:44:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[13-Mar-2023 03:44:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[13-Mar-2023 03:44:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 94
+[13-Mar-2023 03:44:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 98
+[13-Mar-2023 03:44:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[13-Mar-2023 03:44:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[13-Mar-2023 03:44:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 117
+[13-Mar-2023 03:44:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 118
+[13-Mar-2023 03:48:29 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[13-Mar-2023 03:48:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[13-Mar-2023 03:48:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[13-Mar-2023 03:48:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 94
+[13-Mar-2023 03:48:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 98
+[13-Mar-2023 03:48:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[13-Mar-2023 03:48:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[13-Mar-2023 03:48:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 117
+[13-Mar-2023 03:48:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 118
+[13-Mar-2023 03:48:53 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[13-Mar-2023 03:48:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[13-Mar-2023 03:48:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[13-Mar-2023 03:48:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 94
+[13-Mar-2023 03:48:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 98
+[13-Mar-2023 03:48:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[13-Mar-2023 03:48:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[13-Mar-2023 03:48:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 117
+[13-Mar-2023 03:48:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 118
+[13-Mar-2023 03:50:40 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[13-Mar-2023 03:50:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[13-Mar-2023 03:50:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[13-Mar-2023 03:50:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 94
+[13-Mar-2023 03:50:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 98
+[13-Mar-2023 03:50:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[13-Mar-2023 03:50:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[13-Mar-2023 03:50:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 117
+[13-Mar-2023 03:50:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 118
+[13-Mar-2023 03:50:40 UTC] PHP Warning:  Undefined array key "total" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 190
+[13-Mar-2023 04:01:32 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[13-Mar-2023 04:01:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[13-Mar-2023 04:01:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[13-Mar-2023 04:01:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 94
+[13-Mar-2023 04:01:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 98
+[13-Mar-2023 04:01:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[13-Mar-2023 04:01:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[13-Mar-2023 04:01:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 117
+[13-Mar-2023 04:01:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 118
+[15-Apr-2023 12:01:05 Asia/Manila] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/sidebar.php on line 16
+[15-Apr-2023 12:01:05 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/sidebar.php on line 16
+[15-Apr-2023 12:01:05 Asia/Manila] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/sidebar.php on line 16
+[15-Apr-2023 12:01:05 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/sidebar.php on line 16
+[15-Apr-2023 12:01:05 Asia/Manila] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/menubar.php on line 22
+[15-Apr-2023 12:01:05 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/menubar.php on line 22
+[15-Apr-2023 12:01:05 Asia/Manila] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/menubar.php on line 55
+[15-Apr-2023 12:01:05 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/menubar.php on line 55
+[15-Apr-2023 12:01:05 Asia/Manila] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/availavility.php on line 85
+[15-Apr-2023 12:01:05 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/availavility.php on line 85
+[15-Apr-2023 12:42:28 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/sidebar.php on line 16
+[15-Apr-2023 12:42:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/sidebar.php on line 16
+[15-Apr-2023 12:42:28 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/sidebar.php on line 16
+[15-Apr-2023 12:42:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/sidebar.php on line 16
+[15-Apr-2023 12:42:28 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/menubar.php on line 22
+[15-Apr-2023 12:42:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/menubar.php on line 22
+[15-Apr-2023 12:42:28 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/menubar.php on line 55
+[15-Apr-2023 12:42:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/menubar.php on line 55
+[15-Apr-2023 12:42:28 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 70
+[15-Apr-2023 12:42:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 70
+[15-Apr-2023 12:42:28 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 70
+[15-Apr-2023 12:42:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 70
+[15-Apr-2023 12:42:28 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 74
+[15-Apr-2023 12:42:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 74
+[15-Apr-2023 12:42:28 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 78
+[15-Apr-2023 12:42:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 78
+[24-Apr-2023 05:20:34 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[24-Apr-2023 05:20:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[24-Apr-2023 05:20:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[24-Apr-2023 05:20:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 94
+[24-Apr-2023 05:20:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 98
+[24-Apr-2023 05:20:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[24-Apr-2023 05:20:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[24-Apr-2023 05:20:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 117
+[24-Apr-2023 05:20:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 118
+[24-Apr-2023 05:22:17 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[24-Apr-2023 05:22:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[24-Apr-2023 05:22:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[24-Apr-2023 05:22:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 94
+[24-Apr-2023 05:22:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 98
+[24-Apr-2023 05:22:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[24-Apr-2023 05:22:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[24-Apr-2023 05:22:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 117
+[24-Apr-2023 05:22:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 118
+[24-Apr-2023 05:22:17 UTC] PHP Warning:  Undefined array key "total" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 190
+[24-Apr-2023 07:53:07 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[24-Apr-2023 07:53:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[24-Apr-2023 07:53:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[24-Apr-2023 07:53:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 94
+[24-Apr-2023 07:53:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 98
+[24-Apr-2023 07:53:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[24-Apr-2023 07:53:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[24-Apr-2023 07:53:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 117
+[24-Apr-2023 07:53:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 118
+[11-May-2023 03:04:41 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[11-May-2023 03:04:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[11-May-2023 03:04:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[11-May-2023 03:04:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 94
+[11-May-2023 03:04:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 98
+[11-May-2023 03:04:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[11-May-2023 03:04:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[11-May-2023 03:04:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 117
+[11-May-2023 03:04:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 118
+[11-May-2023 03:06:49 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[11-May-2023 03:06:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[11-May-2023 03:06:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[11-May-2023 03:06:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 94
+[11-May-2023 03:06:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 98
+[11-May-2023 03:06:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[11-May-2023 03:06:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[11-May-2023 03:06:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 117
+[11-May-2023 03:06:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 118
+[11-May-2023 03:09:22 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[11-May-2023 03:09:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[11-May-2023 03:09:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[11-May-2023 03:09:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 94
+[11-May-2023 03:09:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 98
+[11-May-2023 03:09:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[11-May-2023 03:09:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[11-May-2023 03:09:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 117
+[11-May-2023 03:09:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 118
+[11-May-2023 03:23:30 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[11-May-2023 03:23:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[11-May-2023 03:23:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[11-May-2023 03:23:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 94
+[11-May-2023 03:23:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 98
+[11-May-2023 03:23:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[11-May-2023 03:23:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[11-May-2023 03:23:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 117
+[11-May-2023 03:23:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 118
+[11-May-2023 03:23:30 UTC] PHP Warning:  Undefined array key "total" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 190
+[11-May-2023 03:34:46 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[11-May-2023 03:34:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[11-May-2023 03:34:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[11-May-2023 03:34:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 94
+[11-May-2023 03:34:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 98
+[11-May-2023 03:34:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[11-May-2023 03:34:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[11-May-2023 03:34:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 117
+[11-May-2023 03:34:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 118
+[11-May-2023 03:34:46 UTC] PHP Warning:  Undefined array key "total" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 190
+[11-May-2023 11:36:07 Asia/Manila] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/sidebar.php on line 16
+[11-May-2023 11:36:07 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/sidebar.php on line 16
+[11-May-2023 11:36:07 Asia/Manila] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/sidebar.php on line 16
+[11-May-2023 11:36:07 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/sidebar.php on line 16
+[11-May-2023 11:36:07 Asia/Manila] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/menubar.php on line 22
+[11-May-2023 11:36:07 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/menubar.php on line 22
+[11-May-2023 11:36:07 Asia/Manila] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/menubar.php on line 55
+[11-May-2023 11:36:07 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/menubar.php on line 55
+[11-May-2023 11:36:07 Asia/Manila] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/availavility.php on line 85
+[11-May-2023 11:36:07 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/availavility.php on line 85
+[11-May-2023 11:36:14 Asia/Manila] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/sidebar.php on line 16
+[11-May-2023 11:36:14 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/sidebar.php on line 16
+[11-May-2023 11:36:14 Asia/Manila] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/sidebar.php on line 16
+[11-May-2023 11:36:14 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/sidebar.php on line 16
+[11-May-2023 11:36:14 Asia/Manila] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/menubar.php on line 22
+[11-May-2023 11:36:14 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/menubar.php on line 22
+[11-May-2023 11:36:14 Asia/Manila] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/menubar.php on line 55
+[11-May-2023 11:36:14 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/menubar.php on line 55
+[11-May-2023 11:36:14 Asia/Manila] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/availavility.php on line 85
+[11-May-2023 11:36:14 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/availavility.php on line 85
+[11-May-2023 03:49:40 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[11-May-2023 03:49:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[11-May-2023 03:49:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[11-May-2023 03:49:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 94
+[11-May-2023 03:49:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 98
+[11-May-2023 03:49:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[11-May-2023 03:49:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[11-May-2023 03:49:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 117
+[11-May-2023 03:49:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 118
+[12-May-2023 09:47:45 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[12-May-2023 09:47:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[12-May-2023 09:47:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[12-May-2023 09:47:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 94
+[12-May-2023 09:47:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 98
+[12-May-2023 09:47:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[12-May-2023 09:47:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[12-May-2023 09:47:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 117
+[12-May-2023 09:47:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 118
+[12-May-2023 10:01:04 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[12-May-2023 10:01:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[12-May-2023 10:01:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[12-May-2023 10:01:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 94
+[12-May-2023 10:01:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 98
+[12-May-2023 10:01:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[12-May-2023 10:01:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[12-May-2023 10:01:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 117
+[12-May-2023 10:01:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 118
+[12-May-2023 10:06:39 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[12-May-2023 10:06:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[12-May-2023 10:06:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[12-May-2023 10:06:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 94
+[12-May-2023 10:06:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 98
+[12-May-2023 10:06:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[12-May-2023 10:06:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[12-May-2023 10:06:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 117
+[12-May-2023 10:06:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 118
+[12-May-2023 13:06:48 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[12-May-2023 13:06:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[12-May-2023 13:06:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[12-May-2023 13:06:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 94
+[12-May-2023 13:06:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 98
+[12-May-2023 13:06:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[12-May-2023 13:06:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[12-May-2023 13:06:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 117
+[12-May-2023 13:06:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 118
+[12-May-2023 13:06:48 UTC] PHP Warning:  Undefined array key "total" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 182
+[13-May-2023 04:28:12 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[13-May-2023 04:28:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[13-May-2023 04:28:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[13-May-2023 04:28:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 94
+[13-May-2023 04:28:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 98
+[13-May-2023 04:28:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[13-May-2023 04:28:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[13-May-2023 04:28:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 117
+[13-May-2023 04:28:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 118
+[13-May-2023 04:29:40 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[13-May-2023 04:29:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[13-May-2023 04:29:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[13-May-2023 04:29:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 94
+[13-May-2023 04:29:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 98
+[13-May-2023 04:29:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[13-May-2023 04:29:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[13-May-2023 04:29:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 117
+[13-May-2023 04:29:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 118
+[13-May-2023 07:38:51 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[13-May-2023 07:38:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[13-May-2023 07:38:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[13-May-2023 07:38:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 94
+[13-May-2023 07:38:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 98
+[13-May-2023 07:38:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[13-May-2023 07:38:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[13-May-2023 07:38:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 117
+[13-May-2023 07:38:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 118
+[13-May-2023 08:28:12 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[13-May-2023 08:28:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[13-May-2023 08:28:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[13-May-2023 08:28:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 94
+[13-May-2023 08:28:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 98
+[13-May-2023 08:28:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[13-May-2023 08:28:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[13-May-2023 08:28:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 117
+[13-May-2023 08:28:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 118
+[13-May-2023 08:29:12 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[13-May-2023 08:29:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[13-May-2023 08:29:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[13-May-2023 08:29:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 94
+[13-May-2023 08:29:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 98
+[13-May-2023 08:29:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[13-May-2023 08:29:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[13-May-2023 08:29:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 117
+[13-May-2023 08:29:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 118
+[13-May-2023 08:29:12 UTC] PHP Warning:  Undefined array key "total" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 194
+[13-May-2023 08:29:28 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[13-May-2023 08:29:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[13-May-2023 08:29:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[13-May-2023 08:29:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 94
+[13-May-2023 08:29:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 98
+[13-May-2023 08:29:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[13-May-2023 08:29:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[13-May-2023 08:29:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 117
+[13-May-2023 08:29:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 118
+[13-May-2023 08:29:28 UTC] PHP Warning:  Undefined array key "total" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 194
+[13-May-2023 08:30:07 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[13-May-2023 08:30:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[13-May-2023 08:30:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[13-May-2023 08:30:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 94
+[13-May-2023 08:30:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 98
+[13-May-2023 08:30:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[13-May-2023 08:30:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[13-May-2023 08:30:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 117
+[13-May-2023 08:30:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 118
+[13-May-2023 08:30:07 UTC] PHP Warning:  Undefined array key "total" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 194
+[13-May-2023 08:31:10 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[13-May-2023 08:31:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[13-May-2023 08:31:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[13-May-2023 08:31:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 94
+[13-May-2023 08:31:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 98
+[13-May-2023 08:31:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[13-May-2023 08:31:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[13-May-2023 08:31:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 117
+[13-May-2023 08:31:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 118
+[13-May-2023 08:31:10 UTC] PHP Warning:  Undefined array key "total" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 194
+[13-May-2023 10:08:26 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[13-May-2023 10:08:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[13-May-2023 10:08:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[13-May-2023 10:08:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 94
+[13-May-2023 10:08:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 98
+[13-May-2023 10:08:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[13-May-2023 10:08:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[13-May-2023 10:08:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 117
+[13-May-2023 10:08:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 118
+[13-May-2023 10:09:21 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[13-May-2023 10:09:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[13-May-2023 10:09:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[13-May-2023 10:09:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 94
+[13-May-2023 10:09:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 98
+[13-May-2023 10:09:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[13-May-2023 10:09:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[13-May-2023 10:09:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 117
+[13-May-2023 10:09:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 118
+[13-May-2023 10:09:21 UTC] PHP Warning:  Undefined array key "total" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 194
+[13-May-2023 10:09:34 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[13-May-2023 10:09:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[13-May-2023 10:09:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[13-May-2023 10:09:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 94
+[13-May-2023 10:09:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 98
+[13-May-2023 10:09:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[13-May-2023 10:09:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[13-May-2023 10:09:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 117
+[13-May-2023 10:09:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 118
+[13-May-2023 10:09:34 UTC] PHP Warning:  Undefined array key "total" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 194
+[13-May-2023 10:10:40 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[13-May-2023 10:10:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[13-May-2023 10:10:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[13-May-2023 10:10:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 94
+[13-May-2023 10:10:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 98
+[13-May-2023 10:10:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[13-May-2023 10:10:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[13-May-2023 10:10:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 117
+[13-May-2023 10:10:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 118
+[13-May-2023 10:10:40 UTC] PHP Warning:  Undefined array key "total" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 194
+[13-May-2023 10:11:01 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[13-May-2023 10:11:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[13-May-2023 10:11:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[13-May-2023 10:11:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 94
+[13-May-2023 10:11:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 98
+[13-May-2023 10:11:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[13-May-2023 10:11:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[13-May-2023 10:11:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 117
+[13-May-2023 10:11:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 118
+[13-May-2023 10:12:26 UTC] PHP Warning:  Undefined array key "doctor_schedule_id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 141
+[13-May-2023 10:12:26 UTC] PHP Warning:  Undefined variable $start_time in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 200
+[13-May-2023 10:12:26 UTC] PHP Warning:  Undefined variable $end_time in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 205
+[13-May-2023 10:12:26 UTC] PHP Warning:  Undefined array key "doctor_id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 215
+[13-May-2023 10:12:26 UTC] PHP Warning:  Undefined array key "doctor_schedule_id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 217
+[13-May-2023 10:12:26 UTC] PHP Warning:  Undefined array key "reason_for_appointment" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 218
+[13-May-2023 10:12:26 UTC] PHP Warning:  Undefined array key "reason_for_appointment" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 221
+[13-May-2023 10:12:26 UTC] PHP Warning:  Undefined variable $chang in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 247
+[13-May-2023 10:12:31 UTC] PHP Warning:  Undefined array key "doctor_schedule_id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 141
+[13-May-2023 10:12:31 UTC] PHP Warning:  Undefined variable $start_time in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 200
+[13-May-2023 10:12:31 UTC] PHP Warning:  Undefined variable $end_time in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 205
+[13-May-2023 10:12:31 UTC] PHP Warning:  Undefined array key "doctor_id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 215
+[13-May-2023 10:12:31 UTC] PHP Warning:  Undefined array key "doctor_schedule_id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 217
+[13-May-2023 10:12:31 UTC] PHP Warning:  Undefined array key "reason_for_appointment" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 218
+[13-May-2023 10:12:31 UTC] PHP Warning:  Undefined array key "reason_for_appointment" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 221
+[13-May-2023 10:12:31 UTC] PHP Warning:  Undefined variable $chang in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 247
+[13-May-2023 10:12:34 UTC] PHP Warning:  Undefined array key "doctor_schedule_id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 141
+[13-May-2023 10:12:34 UTC] PHP Warning:  Undefined variable $start_time in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 200
+[13-May-2023 10:12:34 UTC] PHP Warning:  Undefined variable $end_time in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 205
+[13-May-2023 10:12:34 UTC] PHP Warning:  Undefined array key "doctor_id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 215
+[13-May-2023 10:12:34 UTC] PHP Warning:  Undefined array key "doctor_schedule_id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 217
+[13-May-2023 10:12:34 UTC] PHP Warning:  Undefined array key "reason_for_appointment" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 218
+[13-May-2023 10:12:34 UTC] PHP Warning:  Undefined array key "reason_for_appointment" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 221
+[13-May-2023 10:12:34 UTC] PHP Warning:  Undefined variable $chang in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 247
+[13-May-2023 10:12:47 UTC] PHP Warning:  Undefined array key "doctor_schedule_id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 141
+[13-May-2023 10:12:47 UTC] PHP Warning:  Undefined variable $start_time in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 200
+[13-May-2023 10:12:47 UTC] PHP Warning:  Undefined variable $end_time in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 205
+[13-May-2023 10:12:47 UTC] PHP Warning:  Undefined array key "doctor_id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 215
+[13-May-2023 10:12:47 UTC] PHP Warning:  Undefined array key "doctor_schedule_id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 217
+[13-May-2023 10:12:47 UTC] PHP Warning:  Undefined array key "reason_for_appointment" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 218
+[13-May-2023 10:12:47 UTC] PHP Warning:  Undefined array key "reason_for_appointment" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 221
+[13-May-2023 10:12:47 UTC] PHP Warning:  Undefined variable $chang in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 247
+[13-May-2023 10:12:51 UTC] PHP Warning:  Undefined array key "total" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 194
+[13-May-2023 10:12:51 UTC] PHP Warning:  Undefined variable $chang in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 247
+[13-May-2023 10:14:13 UTC] PHP Warning:  Undefined array key "total" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 194
+[13-May-2023 10:14:13 UTC] PHP Warning:  Undefined variable $chang in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 244
+[13-May-2023 10:14:27 UTC] PHP Warning:  Undefined array key "doctor_schedule_id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 141
+[13-May-2023 10:14:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[13-May-2023 10:14:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[13-May-2023 10:14:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 94
+[13-May-2023 10:14:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 98
+[13-May-2023 10:14:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[13-May-2023 10:14:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[13-May-2023 10:14:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 117
+[13-May-2023 10:14:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 118
+[13-May-2023 10:15:23 UTC] PHP Warning:  Undefined array key "doctor_schedule_id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 141
+[13-May-2023 10:15:23 UTC] PHP Warning:  Undefined variable $start_time in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 200
+[13-May-2023 10:15:23 UTC] PHP Warning:  Undefined variable $end_time in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 205
+[13-May-2023 10:15:23 UTC] PHP Warning:  Undefined array key "doctor_id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 215
+[13-May-2023 10:15:23 UTC] PHP Warning:  Undefined array key "doctor_schedule_id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 217
+[13-May-2023 10:15:23 UTC] PHP Warning:  Undefined array key "reason_for_appointment" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 218
+[13-May-2023 10:15:23 UTC] PHP Warning:  Undefined array key "reason_for_appointment" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 221
+[13-May-2023 10:16:17 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[13-May-2023 10:16:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[13-May-2023 10:16:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[13-May-2023 10:16:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 94
+[13-May-2023 10:16:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 98
+[13-May-2023 10:16:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[13-May-2023 10:16:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[13-May-2023 10:16:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 117
+[13-May-2023 10:16:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 118
+[13-May-2023 10:16:17 UTC] PHP Warning:  Undefined array key "total" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 194
+[13-May-2023 10:16:28 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[13-May-2023 10:16:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[13-May-2023 10:16:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[13-May-2023 10:16:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 94
+[13-May-2023 10:16:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 98
+[13-May-2023 10:16:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[13-May-2023 10:16:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[13-May-2023 10:16:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 117
+[13-May-2023 10:16:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 118
+[13-May-2023 10:18:53 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[13-May-2023 10:18:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[13-May-2023 10:18:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[13-May-2023 10:18:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 94
+[13-May-2023 10:18:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 98
+[13-May-2023 10:18:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[13-May-2023 10:18:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[13-May-2023 10:18:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 117
+[13-May-2023 10:18:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 118
+[13-May-2023 10:18:53 UTC] PHP Warning:  Undefined array key "total" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 194
+[15-May-2023 01:17:16 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[15-May-2023 01:17:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[15-May-2023 01:17:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[15-May-2023 01:17:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 94
+[15-May-2023 01:17:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 98
+[15-May-2023 01:17:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[15-May-2023 01:17:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[15-May-2023 01:17:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 117
+[15-May-2023 01:17:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 118
+[15-May-2023 01:17:16 UTC] PHP Warning:  Undefined array key "total" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 194
+[15-May-2023 01:24:24 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[15-May-2023 01:24:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[15-May-2023 01:24:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[15-May-2023 01:24:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 94
+[15-May-2023 01:24:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 98
+[15-May-2023 01:24:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[15-May-2023 01:24:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[15-May-2023 01:24:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 117
+[15-May-2023 01:24:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 118
+[15-May-2023 01:24:24 UTC] PHP Warning:  Undefined array key "total" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 194
+[15-May-2023 01:44:01 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[15-May-2023 01:44:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[15-May-2023 01:44:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[15-May-2023 01:44:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 94
+[15-May-2023 01:44:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 98
+[15-May-2023 01:44:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[15-May-2023 01:44:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[15-May-2023 01:44:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 117
+[15-May-2023 01:44:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 118
+[15-May-2023 01:44:01 UTC] PHP Warning:  Undefined array key "total" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 194
+[15-May-2023 09:57:09 Asia/Manila] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/sidebar.php on line 16
+[15-May-2023 09:57:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/sidebar.php on line 16
+[15-May-2023 09:57:09 Asia/Manila] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/sidebar.php on line 16
+[15-May-2023 09:57:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/sidebar.php on line 16
+[15-May-2023 09:57:09 Asia/Manila] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/menubar.php on line 22
+[15-May-2023 09:57:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/menubar.php on line 22
+[15-May-2023 09:57:09 Asia/Manila] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/menubar.php on line 55
+[15-May-2023 09:57:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/menubar.php on line 55
+[15-May-2023 09:57:09 Asia/Manila] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/appointment.php on line 54
+[15-May-2023 09:57:09 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/appointment.php on line 54
+[15-May-2023 13:14:27 UTC] PHP Fatal error:  Uncaught TypeError: date(): Argument #2 ($timestamp) must be of type ?int, string given in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php:102
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php(102): date()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[15-May-2023 13:15:56 UTC] PHP Fatal error:  Uncaught TypeError: date(): Argument #2 ($timestamp) must be of type ?int, string given in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php:102
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php(102): date()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[15-May-2023 13:17:33 UTC] PHP Fatal error:  Uncaught TypeError: date(): Argument #2 ($timestamp) must be of type ?int, string given in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php:102
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php(102): date()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[15-May-2023 13:17:45 UTC] PHP Fatal error:  Uncaught TypeError: date(): Argument #2 ($timestamp) must be of type ?int, string given in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php:102
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php(102): date()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[15-May-2023 13:17:47 UTC] PHP Fatal error:  Uncaught TypeError: date(): Argument #2 ($timestamp) must be of type ?int, string given in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php:102
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php(102): date()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[15-May-2023 13:18:07 UTC] PHP Fatal error:  Uncaught TypeError: date(): Argument #2 ($timestamp) must be of type ?int, string given in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php:102
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php(102): date()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[15-May-2023 13:20:51 UTC] PHP Fatal error:  Uncaught TypeError: date(): Argument #2 ($timestamp) must be of type ?int, string given in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php:102
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php(102): date()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[15-May-2023 13:20:53 UTC] PHP Fatal error:  Uncaught TypeError: date(): Argument #2 ($timestamp) must be of type ?int, string given in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php:102
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php(102): date()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[15-May-2023 13:20:54 UTC] PHP Fatal error:  Uncaught TypeError: date(): Argument #2 ($timestamp) must be of type ?int, string given in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php:102
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php(102): date()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[15-May-2023 13:21:14 UTC] PHP Fatal error:  Uncaught TypeError: date(): Argument #2 ($timestamp) must be of type ?int, string given in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php:102
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php(102): date()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[16-May-2023 13:31:40 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[16-May-2023 13:31:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[16-May-2023 13:31:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[16-May-2023 13:31:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 94
+[16-May-2023 13:31:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 98
+[16-May-2023 13:31:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[16-May-2023 13:31:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[16-May-2023 13:31:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 118
+[16-May-2023 13:31:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 119
+[16-May-2023 13:31:40 UTC] PHP Warning:  Undefined array key "total" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 195
+[16-May-2023 13:32:50 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[16-May-2023 13:32:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[16-May-2023 13:32:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[16-May-2023 13:32:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 94
+[16-May-2023 13:32:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 98
+[16-May-2023 13:32:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[16-May-2023 13:32:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[16-May-2023 13:32:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 118
+[16-May-2023 13:32:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 119
+[18-May-2023 01:43:16 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[18-May-2023 01:43:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[18-May-2023 01:43:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[18-May-2023 01:43:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 94
+[18-May-2023 01:43:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 98
+[18-May-2023 01:43:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[18-May-2023 01:43:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[18-May-2023 01:43:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 118
+[18-May-2023 01:43:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 119
+[18-May-2023 01:44:00 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[18-May-2023 01:44:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[18-May-2023 01:44:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[18-May-2023 01:44:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 94
+[18-May-2023 01:44:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 98
+[18-May-2023 01:44:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[18-May-2023 01:44:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[18-May-2023 01:44:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 118
+[18-May-2023 01:44:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 119
+[18-May-2023 01:44:00 UTC] PHP Warning:  Undefined array key "total" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 195
+[18-May-2023 01:53:31 UTC] PHP Parse error:  syntax error, unexpected identifier "H" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/download.php on line 100
+[18-May-2023 01:53:38 UTC] PHP Parse error:  syntax error, unexpected identifier "H" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/download.php on line 100
+[18-May-2023 01:54:59 UTC] PHP Parse error:  syntax error, unexpected identifier "H" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/download.php on line 97
+[18-May-2023 09:55:52 Asia/Manila] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string - string in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/download.php:101
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/download.php on line 101
+[18-May-2023 09:57:33 Asia/Manila] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string - string in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/download.php:101
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/download.php on line 101
+[19-May-2023 02:11:08 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[19-May-2023 02:11:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[19-May-2023 02:11:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[19-May-2023 02:11:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 94
+[19-May-2023 02:11:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 98
+[19-May-2023 02:11:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[19-May-2023 02:11:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[19-May-2023 02:11:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 118
+[19-May-2023 02:11:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 119
+[19-May-2023 02:11:08 UTC] PHP Warning:  Undefined array key "total" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 195
+[25-May-2023 02:59:13 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[25-May-2023 02:59:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[25-May-2023 02:59:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[25-May-2023 02:59:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 94
+[25-May-2023 02:59:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 98
+[25-May-2023 02:59:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[25-May-2023 02:59:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[25-May-2023 02:59:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 118
+[25-May-2023 02:59:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 119
+[25-May-2023 02:59:13 UTC] PHP Warning:  Undefined array key "total" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 195
+[25-May-2023 03:06:09 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[25-May-2023 03:06:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[25-May-2023 03:06:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[25-May-2023 03:06:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 94
+[25-May-2023 03:06:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 98
+[25-May-2023 03:06:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[25-May-2023 03:06:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[25-May-2023 03:06:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 118
+[25-May-2023 03:06:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 119
+[25-May-2023 03:06:09 UTC] PHP Warning:  Undefined array key "total" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 195
+[25-May-2023 08:17:23 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[25-May-2023 08:17:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[25-May-2023 08:17:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[25-May-2023 08:17:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 94
+[25-May-2023 08:17:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 98
+[25-May-2023 08:17:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[25-May-2023 08:17:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[25-May-2023 08:17:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 118
+[25-May-2023 08:17:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 119
+[25-May-2023 08:17:23 UTC] PHP Warning:  Undefined array key "total" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 195
+[25-May-2023 08:21:20 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[25-May-2023 08:21:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[25-May-2023 08:21:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[25-May-2023 08:21:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 94
+[25-May-2023 08:21:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 98
+[25-May-2023 08:21:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[25-May-2023 08:21:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[25-May-2023 08:21:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 118
+[25-May-2023 08:21:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 119
+[25-May-2023 21:41:14 Asia/Manila] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/sidebar.php on line 16
+[25-May-2023 21:41:14 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/sidebar.php on line 16
+[25-May-2023 21:41:14 Asia/Manila] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/sidebar.php on line 16
+[25-May-2023 21:41:14 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/sidebar.php on line 16
+[25-May-2023 21:41:14 Asia/Manila] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/menubar.php on line 22
+[25-May-2023 21:41:14 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/menubar.php on line 22
+[25-May-2023 21:41:14 Asia/Manila] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/menubar.php on line 55
+[25-May-2023 21:41:14 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/menubar.php on line 55
+[25-May-2023 13:45:42 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[25-May-2023 13:45:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[25-May-2023 13:45:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[25-May-2023 13:45:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 94
+[25-May-2023 13:45:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 98
+[25-May-2023 13:45:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[25-May-2023 13:45:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[25-May-2023 13:45:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 118
+[25-May-2023 13:45:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 119
+[25-May-2023 13:46:01 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[25-May-2023 13:46:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[25-May-2023 13:46:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[25-May-2023 13:46:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 94
+[25-May-2023 13:46:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 98
+[25-May-2023 13:46:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[25-May-2023 13:46:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 102
+[25-May-2023 13:46:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 118
+[25-May-2023 13:46:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 119
+[25-May-2023 13:46:01 UTC] PHP Warning:  Undefined array key "total" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 211
+[25-May-2023 21:46:14 Asia/Manila] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/sidebar.php on line 16
+[25-May-2023 21:46:14 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/sidebar.php on line 16
+[25-May-2023 21:46:14 Asia/Manila] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/sidebar.php on line 16
+[25-May-2023 21:46:14 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/sidebar.php on line 16
+[25-May-2023 21:46:14 Asia/Manila] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/menubar.php on line 22
+[25-May-2023 21:46:14 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/menubar.php on line 22
+[25-May-2023 21:46:14 Asia/Manila] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/menubar.php on line 55
+[25-May-2023 21:46:14 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/menubar.php on line 55
+[25-May-2023 21:46:14 Asia/Manila] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/appointment.php on line 53
+[25-May-2023 21:46:14 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/appointment.php on line 53
+[25-May-2023 21:48:20 Asia/Manila] PHP Warning:  Undefined array key "appointment_no" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/download.php on line 104
+[25-May-2023 21:48:21 Asia/Manila] PHP Warning:  Undefined array key "appointment_no" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/download.php on line 104
+[25-May-2023 21:48:22 Asia/Manila] PHP Warning:  Undefined array key "appointment_no" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/download.php on line 104
+[25-May-2023 21:49:15 Asia/Manila] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/sidebar.php on line 16
+[25-May-2023 21:49:15 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/sidebar.php on line 16
+[25-May-2023 21:49:15 Asia/Manila] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/sidebar.php on line 16
+[25-May-2023 21:49:15 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/sidebar.php on line 16
+[25-May-2023 21:49:15 Asia/Manila] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/menubar.php on line 22
+[25-May-2023 21:49:15 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/menubar.php on line 22
+[25-May-2023 21:49:15 Asia/Manila] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/menubar.php on line 55
+[25-May-2023 21:49:15 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/menubar.php on line 55
+[25-May-2023 21:49:15 Asia/Manila] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/appointment.php on line 53
+[25-May-2023 21:49:15 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/appointment.php on line 53
+[25-May-2023 15:58:56 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[25-May-2023 15:58:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[25-May-2023 15:58:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[25-May-2023 15:58:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 95
+[25-May-2023 15:58:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 99
+[25-May-2023 15:58:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 99
+[25-May-2023 15:58:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 115
+[25-May-2023 15:58:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 116
+[25-May-2023 15:58:56 UTC] PHP Warning:  Undefined array key "total" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 208
+[26-May-2023 00:43:46 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[26-May-2023 00:43:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[26-May-2023 00:43:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[26-May-2023 00:43:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 95
+[26-May-2023 00:43:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 99
+[26-May-2023 00:43:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 99
+[26-May-2023 00:43:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 115
+[26-May-2023 00:43:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 116
+[26-May-2023 00:43:46 UTC] PHP Warning:  Undefined array key "total" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 208
+[26-May-2023 01:08:51 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[26-May-2023 01:08:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[26-May-2023 01:08:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[26-May-2023 01:08:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 95
+[26-May-2023 01:08:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 99
+[26-May-2023 01:08:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 99
+[26-May-2023 01:08:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 115
+[26-May-2023 01:08:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 116
+[26-May-2023 01:09:04 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[26-May-2023 01:09:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[26-May-2023 01:09:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[26-May-2023 01:09:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 95
+[26-May-2023 01:09:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 99
+[26-May-2023 01:09:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 99
+[26-May-2023 01:09:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 115
+[26-May-2023 01:09:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 116
+[26-May-2023 01:10:03 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[26-May-2023 01:10:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[26-May-2023 01:10:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[26-May-2023 01:10:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 95
+[26-May-2023 01:10:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 99
+[26-May-2023 01:10:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 99
+[26-May-2023 01:10:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 115
+[26-May-2023 01:10:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 116
+[26-May-2023 01:10:03 UTC] PHP Warning:  Undefined array key "total" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 208
+[26-May-2023 01:11:06 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[26-May-2023 01:11:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[26-May-2023 01:11:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[26-May-2023 01:11:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 95
+[26-May-2023 01:11:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 99
+[26-May-2023 01:11:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 99
+[26-May-2023 01:11:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 115
+[26-May-2023 01:11:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 116
+[26-May-2023 01:11:06 UTC] PHP Warning:  Undefined array key "total" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 208
+[26-May-2023 12:45:36 Asia/Manila] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/sidebar.php on line 16
+[26-May-2023 12:45:36 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/sidebar.php on line 16
+[26-May-2023 12:45:36 Asia/Manila] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/sidebar.php on line 16
+[26-May-2023 12:45:36 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/sidebar.php on line 16
+[26-May-2023 12:45:36 Asia/Manila] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/menubar.php on line 22
+[26-May-2023 12:45:36 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/menubar.php on line 22
+[26-May-2023 12:45:36 Asia/Manila] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/menubar.php on line 55
+[26-May-2023 12:45:36 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/menubar.php on line 55
+[26-May-2023 12:45:36 Asia/Manila] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/appointment.php on line 53
+[26-May-2023 12:45:36 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/appointment.php on line 53
+[26-May-2023 04:50:22 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[26-May-2023 04:50:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[26-May-2023 04:50:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[26-May-2023 04:50:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 95
+[26-May-2023 04:50:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 99
+[26-May-2023 04:50:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 99
+[26-May-2023 04:50:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 115
+[26-May-2023 04:50:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 116
+[26-May-2023 04:50:22 UTC] PHP Warning:  Undefined array key "total" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 208
+[26-May-2023 04:50:23 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[26-May-2023 04:50:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[26-May-2023 04:50:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[26-May-2023 04:50:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 95
+[26-May-2023 04:50:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 99
+[26-May-2023 04:50:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 99
+[26-May-2023 04:50:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 115
+[26-May-2023 04:50:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 116
+[26-May-2023 14:28:30 Asia/Manila] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/sidebar.php on line 16
+[26-May-2023 14:28:30 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/sidebar.php on line 16
+[26-May-2023 14:28:30 Asia/Manila] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/sidebar.php on line 16
+[26-May-2023 14:28:30 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/sidebar.php on line 16
+[26-May-2023 14:28:30 Asia/Manila] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/menubar.php on line 22
+[26-May-2023 14:28:30 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/menubar.php on line 22
+[26-May-2023 14:28:30 Asia/Manila] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/menubar.php on line 55
+[26-May-2023 14:28:30 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/include/menubar.php on line 55
+[26-May-2023 14:28:30 Asia/Manila] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/availavility.php on line 84
+[26-May-2023 14:28:30 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/availavility.php on line 84
+[26-May-2023 07:44:27 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[26-May-2023 07:44:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[26-May-2023 07:44:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[26-May-2023 07:44:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 95
+[26-May-2023 07:44:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 99
+[26-May-2023 07:44:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 99
+[26-May-2023 07:44:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 115
+[26-May-2023 07:44:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 116
+[26-May-2023 07:44:27 UTC] PHP Warning:  Undefined array key "total" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 208
+[01-Jun-2023 14:36:41 UTC] PHP Warning:  Undefined array key "id" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 46
+[01-Jun-2023 14:36:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 59
+[01-Jun-2023 14:36:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 90
+[01-Jun-2023 14:36:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 95
+[01-Jun-2023 14:36:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 99
+[01-Jun-2023 14:36:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 99
+[01-Jun-2023 14:36:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 115
+[01-Jun-2023 14:36:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 116
+[01-Jun-2023 14:36:41 UTC] PHP Warning:  Undefined array key "total" in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/patient/sched_patient.php on line 208

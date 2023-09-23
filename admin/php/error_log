@@ -1,0 +1,255 @@
+[12-Feb-2023 16:28:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'doctor_appointment.doctor_table' doesn't exist in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php:11
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php(11): mysqli_query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php on line 11
+[12-Feb-2023 16:28:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'doctor_appointment.doctor_table' doesn't exist in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php:11
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php(11): mysqli_query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php on line 11
+[12-Feb-2023 16:28:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'doctor_appointment.doctor_table' doesn't exist in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php:11
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php(11): mysqli_query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php on line 11
+[12-Feb-2023 16:28:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'doctor_appointment.patient_table' doesn't exist in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php:6
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php on line 6
+[12-Feb-2023 16:28:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'doctor_appointment.patient_table' doesn't exist in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php:6
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php on line 6
+[12-Feb-2023 16:28:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'doctor_appointment.patient_table' doesn't exist in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php:6
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php on line 6
+[12-Feb-2023 16:28:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'doctor_appointment.patient_table' doesn't exist in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php:6
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php on line 6
+[12-Feb-2023 16:28:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'doctor_appointment.patient_table' doesn't exist in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php:6
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php on line 6
+[12-Feb-2023 16:28:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'doctor_appointment.patient_table' doesn't exist in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php:6
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php on line 6
+[12-Feb-2023 16:28:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'doctor_appointment.patient_table' doesn't exist in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php:6
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php on line 6
+[12-Feb-2023 16:28:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'doctor_appointment.patient_table' doesn't exist in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php:6
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php on line 6
+[12-Feb-2023 16:28:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'doctor_appointment.patient_table' doesn't exist in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php:6
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php on line 6
+[12-Feb-2023 16:28:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'doctor_appointment.patient_table' doesn't exist in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php:6
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php on line 6
+[12-Feb-2023 16:28:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'doctor_appointment.patient_table' doesn't exist in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php:6
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php on line 6
+[12-Feb-2023 16:28:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'doctor_appointment.patient_table' doesn't exist in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php:6
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php on line 6
+[12-Feb-2023 16:28:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'doctor_appointment.patient_table' doesn't exist in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php:6
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php on line 6
+[12-Feb-2023 16:28:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'doctor_appointment.patient_table' doesn't exist in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php:6
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php on line 6
+[12-Feb-2023 16:28:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'doctor_appointment.patient_table' doesn't exist in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php:6
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php on line 6
+[12-Feb-2023 16:28:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'doctor_appointment.patient_table' doesn't exist in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php:6
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php on line 6
+[12-Feb-2023 16:28:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'doctor_appointment.patient_table' doesn't exist in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php:6
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php on line 6
+[12-Feb-2023 16:28:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'doctor_appointment.patient_table' doesn't exist in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php:6
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php on line 6
+[12-Feb-2023 16:28:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'doctor_appointment.patient_table' doesn't exist in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php:6
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php on line 6
+[12-Feb-2023 16:29:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'doctor_appointment.patient_table' doesn't exist in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php:6
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php on line 6
+[12-Feb-2023 16:29:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'doctor_appointment.patient_table' doesn't exist in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php:6
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php on line 6
+[12-Feb-2023 16:29:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'doctor_appointment.patient_table' doesn't exist in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php:6
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php on line 6
+[12-Feb-2023 16:29:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'doctor_appointment.patient_table' doesn't exist in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php:6
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php on line 6
+[12-Feb-2023 16:29:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'doctor_appointment.patient_table' doesn't exist in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php:6
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php on line 6
+[12-Feb-2023 16:29:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'doctor_appointment.patient_table' doesn't exist in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php:6
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php on line 6
+[12-Feb-2023 16:29:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'doctor_appointment.patient_table' doesn't exist in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php:6
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php on line 6
+[12-Feb-2023 16:29:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'doctor_appointment.patient_table' doesn't exist in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php:6
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php on line 6
+[12-Feb-2023 16:29:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'doctor_appointment.patient_table' doesn't exist in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php:6
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php on line 6
+[12-Feb-2023 16:29:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'doctor_appointment.patient_table' doesn't exist in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php:6
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php on line 6
+[12-Feb-2023 16:29:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'doctor_appointment.patient_table' doesn't exist in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php:6
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php on line 6
+[12-Feb-2023 16:29:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'doctor_appointment.patient_table' doesn't exist in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php:6
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php on line 6
+[12-Feb-2023 16:29:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'doctor_appointment.patient_table' doesn't exist in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php:6
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php on line 6
+[12-Feb-2023 16:29:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'doctor_appointment.patient_table' doesn't exist in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php:6
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php on line 6
+[12-Feb-2023 16:29:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'doctor_appointment.patient_table' doesn't exist in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php:6
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php on line 6
+[12-Feb-2023 16:29:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'doctor_appointment.patient_table' doesn't exist in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php:6
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php on line 6
+[12-Feb-2023 16:29:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'doctor_appointment.patient_table' doesn't exist in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php:6
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php on line 6
+[12-Feb-2023 16:29:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'doctor_appointment.patient_table' doesn't exist in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php:6
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php on line 6
+[12-Feb-2023 16:29:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'doctor_appointment.patient_table' doesn't exist in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php:6
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php on line 6
+[12-Feb-2023 16:29:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'doctor_appointment.patient_table' doesn't exist in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php:6
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php on line 6
+[12-Feb-2023 16:29:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'doctor_appointment.patient_table' doesn't exist in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php:6
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php on line 6
+[12-Feb-2023 16:29:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'doctor_appointment.patient_table' doesn't exist in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php:6
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php on line 6
+[12-Feb-2023 16:29:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'doctor_appointment.patient_table' doesn't exist in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php:6
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php on line 6
+[12-Feb-2023 16:29:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'doctor_appointment.patient_table' doesn't exist in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php:6
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php on line 6
+[12-Feb-2023 16:29:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'doctor_appointment.patient_table' doesn't exist in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php:6
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php on line 6
+[12-Feb-2023 16:29:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'doctor_appointment.patient_table' doesn't exist in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php:6
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php on line 6
+[12-Feb-2023 16:29:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'doctor_appointment.patient_table' doesn't exist in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php:6
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php on line 6
+[12-Feb-2023 16:29:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'doctor_appointment.patient_table' doesn't exist in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php:6
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php on line 6
+[12-Feb-2023 16:29:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'doctor_appointment.patient_table' doesn't exist in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php:6
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/jhhh-consultation.online/admin/php/users.php on line 6
